@@ -1,6 +1,6 @@
-<h3>Hello world!</h3>
-<h4>My name is Lindsay and welcome to my Github!</h4>
-I recently made the transition from an environmental scientist to a software engineer, focused on the PERN stack and Javascript.
+<h3 align="center">Hello world!</h3>
+<h4 align="center">My name is Lindsay and welcome to my Github!</h4>
+<h4 align="center">I recently made the transition from an environmental scientist to a software engineer, focusing on the PERN stack and Javascript.</h4>
 
 <h4>🛠️ Languages and Tools :</h4>
 <p>
