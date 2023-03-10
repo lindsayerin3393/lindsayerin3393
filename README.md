@@ -1,6 +1,6 @@
 <h3>Hello world!</h3>
 <h4>My name is Lindsay and welcome to my Github!</h4>
-I recently transitioned from an environmental scientist to a software engineer, focused on the PERN stack and Javascript.
+I recently made the transition from an environmental scientist to a software engineer, focused on the PERN stack and Javascript.
 
 <h4>🛠️ Languages and Tools :</h4>
 <p>
@@ -30,6 +30,9 @@ I recently transitioned from an environmental scientist to a software engineer, 
    </a>
   <a href="https://nodejs.org/en/" target="blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+    <a href="https://mui.com/" target="blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
