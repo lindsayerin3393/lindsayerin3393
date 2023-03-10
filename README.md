@@ -2,8 +2,8 @@
 <h4 align="center">My name is Lindsay and welcome to my Github!</h4>
 <h4 align="center">I recently made the transition from an environmental scientist to a software engineer, focusing on the PERN stack and Javascript.</h4>
 
-<h4>🛠️ Languages and Tools :</h4>
-<p>
+<h4 align="center">🛠️ Languages and Tools :</h4>
+<p align="center">
 <a href="https://www.javascript.com/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="github" width="40" height="40"/>
 </a> 
