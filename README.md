@@ -10,7 +10,7 @@ I recently made the transition from an environmental scientist to a software eng
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="blank">
